@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">I am engaged in frontend and more backend development in Russia</h3>
 
+<p><a href="https://www.codewars.com/users/Pashgun-fun">Codewars</a></p>
+
+<p><img src="https://www.codewars.com/users/Pashgun-fun/badges/large" alt="Codewars"/></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pashgunt&label=Profile%20views&color=0e75b6&style=flat" alt="pashgunt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pashgunt" alt="pashgunt" /></a> </p>
